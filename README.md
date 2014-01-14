@@ -1,5 +1,5 @@
 Spree Variant Properties
-========================_
+========================
 
 Because Spree::Variant deserve properties too!
 
